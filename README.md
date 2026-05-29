@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">PhD student in bioinformatics</h3>
+<h3 align="center">PhD student in Computational Biology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertogonzalezdelgado&label=Profile%20views&color=0e75b6&style=flat" alt="albertogonzalezdelgado" /> </p>
 
